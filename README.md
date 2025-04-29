@@ -6,4 +6,4 @@
 * [José Araújo Agra Neto](@Littleneto) (desenvolvedor);
 * Janderson Jason Barbosa Aguiar (professor e consultor).
 ## Extra
-Esse projeto foi desenvolvido como uma atividade extra não-oficial das disciplinas de Linguagem de Programação II e Laboratório de Programação II, ministrada pelo professor Janderson Aguiar no período de 2025.1 na Universidade Estadual da Paraíba (UEPB).
+Esse projeto foi desenvolvido como uma atividade extra não-oficial das disciplinas de Linguagem de Programação II e Laboratório de Programação II, ministradas pelo professor Janderson Aguiar no período de 2025.1 na Universidade Estadual da Paraíba (UEPB).
